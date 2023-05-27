@@ -1507,3 +1507,13 @@ _VictreebelDexEntry::
 	next "has ever returned"
 	next "from there"
 	dex
+	
+_UnknownDexEntry::
+	text "It's very, very"
+	next "rare, we may"
+	next "never, ever"
+
+	page "know one aspect"
+	next "or information of" 
+	next "its own species"
+	dex
